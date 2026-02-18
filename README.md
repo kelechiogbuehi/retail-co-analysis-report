@@ -1,2 +1,3 @@
-# retail-co-analysis-report
-This project is a Power BI portfolio project that documents he analysis conducted on retail co sales data from Jan - Dec 2024 
+# Retail Co Sales Report (Jan-Dec 2024)
+Analysis of the sales dataset to give management a better view of the business performance.
+![Header image](retail-co sales-image.PNG)
