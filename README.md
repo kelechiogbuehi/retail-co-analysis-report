@@ -24,13 +24,29 @@ The dataset consists of 1100 rows and 16 columns. This dataset contains transact
  - A sales level column was introduced to categorize the sales amount across two different categories; High and Low.
 
 ## Data Preview
-![Data Preview](Retail-co-Data-preview.PNG)
+![Data Preview](Retailco-Data-preview.png)
 
-# Analysis and Insights
+## Analysis and Insights
 This section breaks down the data into actionable insights
 
-# Key Performance Indicators (KPI)
+### Key Performance Indicators (KPI)
  - Sales in 2024 reached a total of about $1.6M and out of this total sales about $397K accounted for profit. 
  - There were exactly 1,100 orders in the year under review and a mere 35% of those orders were actually completed.
+
+### Sales Trend by Month
+ - Sales peaked in May accounting for $173K and by September sales dropped to the lowest pulling in only $95K.
+
+### Profit by Product Category
+ - The Home & Kitchen product category contributes the most to the profit ($85K) however it is not a significantly large difference between the second placed category (Beauty) which contributes $81K in profit.
+ - The margin of the profit between all five product categories is low as the highest is $85k and the lowest is $72K. 
+
+### Payment Method and Gender Distribution
+ - Customer preference in terms of the payment method spreads out evenly across all the available payment channels.
+ - There are more male customers (53%) compared to females (47%). There is no significant difference in the distribution of customers by gender.
+
+## Dashboard
+![Dashboard](Dashboard.PNG)
+
+
 
 
