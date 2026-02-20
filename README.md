@@ -45,7 +45,15 @@ This section breaks down the data into actionable insights
  - There are more male customers (53%) compared to females (47%). There is no significant difference in the distribution of customers by gender.
 
 ## Dashboard
-![Dashboard](Dashboard.PNG)
+![Dashboard](Dashboard.png)
+
+## Recommendations
+ - Seeing that there is an even balance in the payment method based on customer preference, there is a need to maintain robust support across all five gateways. 
+ - The return rate is extremely poor at a 35% return rate. So that means that 65% of all orders were returned. This needs to be looked into as it directly impacts total sales and subsequently profit.
+
+## Link
+[PowerBI Dasboard live report](https://app.powerbi.com/view?r=eyJrIjoiMzkwNWVmMWQtMGYzZC00MTM0LWJlODctZTg0MGE2NTY4MDQ5IiwidCI6IjQ0MWExMDJhLTNhMTItNGViZi1hOTM0LTU4YTQxZDkwNjc3OSJ9)
+
 
 
 
