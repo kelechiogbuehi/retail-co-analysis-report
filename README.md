@@ -1,3 +1,36 @@
 # Retail Co Sales Report (Jan-Dec 2024)
 Analysis of the sales dataset to give management a better view of the business performance.
 ![Header image](Retailco-header-image.png)
+
+## Executive Summary
+ - Retail Co lacked the required structure that will enable them to make accurate data driven decisions for their business.
+ - Developed an interactive Power BI dashboard consolidating their over 1000 transactions to accurately track their KPIs, understand their customer behaviour and notice their sales trend. 
+ - The analysis highlighted a major issue in their business as about 65% of all orders get returned. Leaving only a small 35% of orders as completed.
+
+## Business Problem
+Retail Co is a major retail store making business decisions based on intuition and actions not backed by data. As a result they required a centralized view of their operations where they can also drill down into specific operational areas. 
+
+## Process and Methodology
+### Tools Used
+Power BI, Power Query, DAX
+
+### Data Sourcing & Overview
+The dataset consists of 1100 rows and 16 columns. This dataset contains transactional data across 6 different product categories in the regions that the store operates in. 
+
+### Data Cleaning & Transformation
+ - Removed duplicates rows
+ - Converted the date column to a date datatype and converted the time columns to the appropriate time datatype. 
+ - Converted the Sales Amount and Profit Column to the currency data type. 
+ - A sales level column was introduced to categorize the sales amount across two different categories; High and Low.
+
+## Data Preview
+![Data Preview](Retail-co-Data-preview.PNG)
+
+# Analysis and Insights
+This section breaks down the data into actionable insights
+
+# Key Performance Indicators (KPI)
+ - Sales in 2024 reached a total of about $1.6M and out of this total sales about $397K accounted for profit. 
+ - There were exactly 1,100 orders in the year under review and a mere 35% of those orders were actually completed.
+
+
